@@ -1,0 +1,5 @@
+bot_agotchi.menu:
+  title: 'Botagotchi'
+  description: 'Configure your botagotchi with these settings.'
+  parent: system.admin_config_ui
+  route_name: bot_agotchi.form

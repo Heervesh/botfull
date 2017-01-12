@@ -1,0 +1,6 @@
+bot_auth.menu:
+  title: 'Bot Auth'
+  description: 'Authenticate to the bot with your Drupal user account.'
+  parent: system.admin_config_ui
+  route_name: bot_auth.form
+

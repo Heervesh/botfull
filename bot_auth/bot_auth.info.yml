@@ -1,0 +1,6 @@
+name: 'Bot Auth'
+dependencies[]: bot
+description: 'Authenticate to the bot with your Drupal user account.'
+core: 8.x
+type: module
+configure: bot_auth.form

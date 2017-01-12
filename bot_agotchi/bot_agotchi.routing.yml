@@ -1,0 +1,7 @@
+bot_agotchi.form:
+  path: 'admin/config/user-interface/bot_agotchi'
+  defaults:
+    _title: 'Botagotchi'
+    _form: '\Drupal\bot_agotchi\Form\BotAgotchiForm'
+  requirements:
+    _permission: 'access administration pages'

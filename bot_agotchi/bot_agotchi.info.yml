@@ -1,0 +1,7 @@
+name: 'Bot Agotchi'
+dependencies[]: bot
+description: 'Proper care and feeding lets your botagotchi grow and be happy!'
+configure: bot_agotchi.form
+core: 8.x
+type: module
+
