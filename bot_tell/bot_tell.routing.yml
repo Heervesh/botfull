@@ -1,0 +1,7 @@
+bot_tell.form:
+  path: '\Drupal\modules\bot\bot_tell\Form\bottellform'
+  defaults:
+    _title: 'Bot Tell'
+    _form: 'bot_tell.form'
+  requirements:
+    _permission: 'access administration pages'

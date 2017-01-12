@@ -1,0 +1,7 @@
+name: 'Bot Seen'
+package: Bot
+description: 'Enables users to find out the last time a channel member was active.'
+core: 8.x
+type: module
+dependencies: 
+  -bot

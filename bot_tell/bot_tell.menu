@@ -1,0 +1,5 @@
+bot_tell.menu:
+  title: 'Bot Tell'
+  description: 'Enables queued messages for unavailable users.'
+  parent: system.admin_config_ui
+  route_name: bot_tell.form

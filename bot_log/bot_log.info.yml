@@ -1,0 +1,8 @@
+name: 'Bot Log'
+package: Bot
+description: 'Enables the logging of IRC channels.'
+configure: bot_log.form
+core: 8.x
+type: module
+dependencies:
+  -bot

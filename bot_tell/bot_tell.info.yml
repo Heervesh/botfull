@@ -1,0 +1,7 @@
+name: 'Bot Tell'
+package: Bot
+description: 'Enables queued messages for unavailable users.'
+core: 8.x
+type: module
+dependencies: 
+  -bot

@@ -1,0 +1,9 @@
+name: 'Bot Potpourri'
+package: Bot
+description: 'Enables a collection of gentle and pleasant smelling utilities.'
+configure: bot_potpourri.form
+core: 8.x
+type: module
+dependencies:
+  -bot
+

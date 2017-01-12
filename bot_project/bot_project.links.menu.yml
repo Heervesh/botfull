@@ -1,0 +1,5 @@
+bot_project.menu:
+  title: 'Bot Project'
+  description: 'Enables various project toolkit compatible actions.'
+  parent: system.admin_config_ui
+  route_name: bot_project.form

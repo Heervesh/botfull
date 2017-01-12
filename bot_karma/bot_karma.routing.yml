@@ -1,0 +1,7 @@
+bot_karma.form:
+  path: '/admin/config/user-interface/bot_karma'
+  defaults:
+    _title: 'Bot Karma'
+    _form: '\Drupal\bot\bot_karma\Form\BotKarmaForm'
+  requirements:
+    _permission: 'access administration pages'

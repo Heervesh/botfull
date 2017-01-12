@@ -1,0 +1,8 @@
+name: 'Bot Project'
+package: Bot
+description: 'Enables various project toolkit compatible actions.'
+configure: bot_project.form
+core: 8.x
+type: module
+dependencies:
+  -bot

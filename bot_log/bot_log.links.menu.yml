@@ -1,0 +1,5 @@
+bot_log.menu:
+  title: 'Bot Log'
+  description: 'Enables the logging of IRC channels.'
+  parent: system.admin_config_ui
+  route_name: bot_log.form

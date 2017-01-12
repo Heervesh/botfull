@@ -1,0 +1,7 @@
+bot_seen.form:
+  path: '\Drupal\modules\bot\bot_tell\Form\botseenform'
+  defaults:
+    _title: 'Bot Seen'
+    _form: 'Drupal\modules\bot\bot_seen\Form\botseenform'
+  requirements:
+    _permission: 'access administration pages'

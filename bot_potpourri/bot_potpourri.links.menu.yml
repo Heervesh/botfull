@@ -1,0 +1,5 @@
+bot_potpourri.menu:
+  title: 'Bot Potpourri'
+  description: 'Enables a collection of gentle and pleasant smelling utilities.'
+  parent: system.admin_config_ui
+  route_name: bot_potpourri.form

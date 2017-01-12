@@ -1,0 +1,7 @@
+bot_log.form:
+  path: '/admin/config/user-interface/log'
+  defaults:
+    _title: 'Bot Log'
+    _form: '\Drupal\bot\bot_log\Form\BotLogForm'
+  requirements:
+    _permission: 'access administration pages'
