@@ -1,0 +1,10 @@
+name: 'Bot Aggregator'
+package: Bot
+description: 'Enables the reporting of aggregated feed items to configured channels.'
+configure: bot_aggregator.form
+core: 8.x
+type: module
+dependencies:
+  - bot
+dependencies:
+  - aggregator

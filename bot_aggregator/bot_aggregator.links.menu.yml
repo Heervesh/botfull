@@ -1,0 +1,5 @@
+bot_aggregator.menu:
+  title: 'Bot Aggregator'
+  description: 'Enables the reporting of aggregated feed items to configured channels.'
+  parent: system.admin_config_ui
+  route_name: bot_aggregator.form
