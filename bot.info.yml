@@ -1,0 +1,6 @@
+name: bot
+package: Custom
+description: 'Enables a network and plugin framework for IRC bots.'
+configure: bot.form
+core: 8.x
+type: module

@@ -1,0 +1,7 @@
+bot.form:
+  path: '/admin/config/user-interface/bot'
+  defaults:
+    _title: 'Bot'
+    _form: '\Drupal\bot\Form\bot_form'
+  requirements:
+    _permission: 'access administration pages'

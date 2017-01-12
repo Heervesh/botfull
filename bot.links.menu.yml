@@ -1,0 +1,6 @@
+bot.menu:
+  title: 'bot'
+  description: 'Enables a network and plugin framework for IRC bots.'
+  parent: system.admin_config_ui
+  route_name: bot.form
+  
