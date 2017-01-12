@@ -1,0 +1,5 @@
+bot_drupal_api.menu:
+  title: 'Bot Drupal API'
+  description: 'Enables function name lookups from a Drupal api.module export.'
+  parent: system.admin_config_ui
+  route_name: bot_drupal_api.form

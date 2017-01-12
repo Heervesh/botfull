@@ -1,0 +1,6 @@
+bot_factoid.menu:
+  title: 'Bot Factoid'
+  description: 'Configure factoid learning with these settings.'
+  parent: system.admin_config_ui
+  route_name: bot_factoid.form
+

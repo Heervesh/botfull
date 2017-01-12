@@ -1,0 +1,7 @@
+bot_factoid.form:
+  path: '/admin/config/user-interface/bot_factoid'
+  defaults:
+    _title: 'Bot Factoid'
+    _form: '\Drupal\bot\bot_factoid\Form\BotFactoidForm'
+  requirements:
+    _permission: 'access administration pages'
